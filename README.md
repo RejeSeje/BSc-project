@@ -1,2 +1,5 @@
-# BSc-project
-BSc proj. - Bachelor project - Skin lesions
+# BSc-Project
+Bachelor project - Skin lesions
+
+Project description:
+
